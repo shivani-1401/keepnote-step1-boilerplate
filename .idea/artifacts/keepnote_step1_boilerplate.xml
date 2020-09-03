@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="keepnote-step1-boilerplate">
+    <output-path>$PROJECT_DIR$/out/artifacts/keepnote_step1_boilerplate</output-path>
+    <root id="root">
+      <element id="archive" name="keepnote-step1-boilerplate" />
+    </root>
+  </artifact>
+</component>
