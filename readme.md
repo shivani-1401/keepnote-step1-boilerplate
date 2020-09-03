@@ -23,7 +23,6 @@ In this case study: Keep Note Step 1, we will develop a monolithic application w
 ### Following are the broad tasks:
 1. Display the list of notes from the array list. Each note should contain Note ID, Title, Content, Status and created date. 
 2. Add a new note which should contain the Note ID, Title, Content and Status.
-3. Make sure to pass all the Unit test cases locally and on Hobbes.
 
 ### Steps to be followed :
 
